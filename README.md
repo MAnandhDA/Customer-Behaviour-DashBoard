@@ -1,14 +1,6 @@
 # Customer-Behaviour-DashBoard
 Fashion Customers Behaviour Analysis
 
-# 🛍️ Customer Behaviour Analytics Dashboard | Power BI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
 
 # 📌 Project Overview
 
@@ -65,19 +57,6 @@ This dashboard addresses the following business questions:
 | 🎯 Interactive Filters | **Gender, Category & Subscription Status** |
 
 ---
-
-# 📷 Dashboard Preview
-
-> *(Add Dashboard Screenshot Here)*
-
-Example:
-
-```
-assets/dashboard-preview.png
-```
-
----
-
 # 📊 Dashboard Features
 
 ### Executive KPIs
@@ -245,13 +224,5 @@ Customer-Behaviour-Dashboard/
 # ⭐ If you found this project useful,
 
 Please consider giving it a **Star ⭐** on GitHub.
-
----
-
-## 📬 Connect With Me
-
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 💻 GitHub: *(Add your GitHub profile)*
-- 📧 Email: *(Add your Email)*
 
 ---
